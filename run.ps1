@@ -62,5 +62,3 @@ if( $OutputVariable -eq "main" ) {
     # Ask to Push
     git_push
 }
-# Ask to run the Node Server
-run_server
