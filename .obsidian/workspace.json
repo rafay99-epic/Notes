@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Task/14th January 2023.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,8 +31,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "721fab841b304a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46308c4763d1ec54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,17 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "756e895e28350eba",
+  "active": "3c6bbb21d25d871a",
   "lastOpenFiles": [
-    "Blogs/Python vs JavaScript for ML/Python vs JavaScript for ML.md",
     "Daily Task/14th January 2023.md",
+    "README.md",
+    "Blogs/Python vs JavaScript for ML/Python vs JavaScript for ML.md",
     "Daily Task/15th January 2023.md",
     "Pyton-JavaScript.png.md",
     "Blogs/Python vs JavaScript for ML/Python-JavaScript.png",
     "Blogs/Is Math Really Required for Machine Learning, or Is It Just an Drama/Is Math Really Required for Machine Learning, or Is It Just an Drama.md",
     "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md",
     "Blogs/Tools for Machine Learning/Tools for Machine Learning.md",
-    "Daily Task/13th January 2023.md",
-    "github command.md"
+    "Daily Task/13th January 2023.md"
   ]
 }
