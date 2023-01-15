@@ -1,0 +1,11 @@
+- Blog (Done)
+	- Write it Down 
+	- Post The Plog
+- Tell Usama bhai about the data and errror
+- Project (Project is pause Right Now)
+	- Need to read a csv file line by line
+	- Store each row into a list
+	- Commit to the github
+	- Pass each row of list into the model.
+- Need to Update My Protifio Website (Done)
+- Wash Prius before dad get Angry (Done)
