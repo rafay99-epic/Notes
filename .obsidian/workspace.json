@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d6a0d0722cf8cf8c",
+        "id": "a0ccf2e6a279002c",
         "type": "tabs",
-        "dimension": 50.06345177664975,
         "children": [
           {
-            "id": "f3aa8fd26ebe2d0b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Blogs/Road Map for ML/Road-to-ML.png"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d682cea65754ecfc",
-        "type": "tabs",
-        "dimension": 49.93654822335025,
-        "children": [
-          {
-            "id": "3e7d467e85e4a94c",
+            "id": "ae0ae1765eef7675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/Road Map for ML/Road Map for ML.md",
+                "file": "Daily Task/19th Junuary 2023.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9760c330adff637f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read Me File/Blog website ReadMe File.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "04eaad110b966c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da5413c2beb2f10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read Me File/Blog website ReadMe File.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/Road Map for ML/Road Map for ML.md",
+                "file": "Read Me File/Blog website ReadMe File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/Road Map for ML/Road Map for ML.md",
+                "file": "Read Me File/Blog website ReadMe File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/Road Map for ML/Road Map for ML.md"
+                "file": "Read Me File/Blog website ReadMe File.md"
               }
             }
           }
@@ -164,17 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e7d467e85e4a94c",
+  "active": "9760c330adff637f",
   "lastOpenFiles": [
+    "Daily Task/19th Junuary 2023.md",
+    "Read Me File/Blog website ReadMe File.md",
+    "Untitled.md",
     "Blogs/Road Map for ML/Road-to-ML.png",
     "Blogs/Road Map for ML/Road Map for ML.md",
     "Blogs/ML Research Papaer/Research Paper for ML & DL.md",
-    "Daily Task/19th Junuary 2023.md",
     "Daily Task/14th January 2023.md",
     "README.md",
     "Daily Task/15th January 2023.md",
-    "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md",
-    "Blogs/Python vs JavaScript for ML/Python vs JavaScript for ML.md",
-    "Blogs/Is Math Really Required for Machine Learning, or Is It Just an Drama/Is Math Really Required for Machine Learning, or Is It Just an Drama.md"
+    "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md"
   ]
 }
