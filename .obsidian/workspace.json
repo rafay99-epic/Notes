@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ccf2e6a279002c",
+        "id": "a9c959961e8a84c8",
         "type": "tabs",
         "children": [
           {
-            "id": "ae0ae1765eef7675",
+            "id": "9761e6465dec7144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Task/19th Junuary 2023.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9760c330adff637f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read Me File/Blog website ReadMe File.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "04eaad110b966c16",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "da5413c2beb2f10b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read Me File/Blog website ReadMe File.md",
+                "file": "Blogs/Build Hugo Website/Blog website ReadMe File.md",
                 "mode": "preview",
                 "source": true
               }
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read Me File/Blog website ReadMe File.md",
+                "file": "Blogs/Build Hugo Website/Blog website ReadMe File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read Me File/Blog website ReadMe File.md",
+                "file": "Blogs/Build Hugo Website/Blog website ReadMe File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read Me File/Blog website ReadMe File.md"
+                "file": "Blogs/Build Hugo Website/Blog website ReadMe File.md"
               }
             }
           }
@@ -177,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9760c330adff637f",
+  "active": "0d5d9daeae0d5650",
   "lastOpenFiles": [
+    "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md",
+    "Blogs/Build Hugo Website/Blog website ReadMe File.md",
+    "Blogs/Build Hugo Website/opeing-file-in-code.png",
     "Daily Task/19th Junuary 2023.md",
-    "Read Me File/Blog website ReadMe File.md",
+    "Blogs/Build Hugo Website/hugo-new-site.png",
     "Untitled.md",
     "Blogs/Road Map for ML/Road-to-ML.png",
     "Blogs/Road Map for ML/Road Map for ML.md",
     "Blogs/ML Research Papaer/Research Paper for ML & DL.md",
-    "Daily Task/14th January 2023.md",
-    "README.md",
-    "Daily Task/15th January 2023.md",
-    "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md"
+    "Daily Task/14th January 2023.md"
   ]
 }
