@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "824698b17a2d1063",
+            "id": "9f077d31ed3d4510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "2c3845a4cd7d31d1",
+        "id": "6c19a055d6680d7f",
         "type": "tabs",
         "children": [
           {
-            "id": "2b094a172e22d37f",
+            "id": "fd5d66087ef95456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md"
+                "file": "README.md"
               }
             }
           }
@@ -164,17 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "824698b17a2d1063",
+  "active": "fd5d66087ef95456",
   "lastOpenFiles": [
     "GitHub Projects/Blog Website/ReadMe File/Blog Website.md",
+    "README.md",
+    "Blogs/How to Use Git/How to use Git.md",
     "GitHub Projects/Blog Website/Release Version/Version 01/Version 01.md",
     "Blogs/Build Hugo Website/Build My Blog Website.md",
     "Read Me File/Blog Website/Untitled.md",
     "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md",
     "Blogs/Build Hugo Website/opeing-file-in-code.png",
     "Daily Task/19th Junuary 2023.md",
-    "Blogs/Build Hugo Website/hugo-new-site.png",
-    "Blogs/Road Map for ML/Road-to-ML.png",
-    "Blogs/Road Map for ML/Road Map for ML.md"
+    "Blogs/Build Hugo Website/hugo-new-site.png"
   ]
 }
