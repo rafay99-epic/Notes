@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ddf60f16641b8d",
+        "id": "04c47bd52fb459da",
         "type": "tabs",
         "children": [
           {
-            "id": "169397355978233e",
+            "id": "4229c915379a6bf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md",
+                "file": "Blogs/Tools for Machine Learning/Tools for Machine Learning.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "a67cfbd58a60b1bc",
+            "id": "4aa42b9b2816a489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md",
+                "file": "Blogs/Best-Resources-For-Machine-Learning/Best Resources to Learn Machine Learning.md",
                 "mode": "source",
                 "source": true
               }
@@ -35,16 +35,16 @@
         "currentTab": 1
       },
       {
-        "id": "ca9b27874a2b3af8",
+        "id": "054359a9a2b4466f",
         "type": "tabs",
         "children": [
           {
-            "id": "4b96ab8f4e5f0cef",
+            "id": "fc4f242ddde866f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md",
+                "file": "Blogs/Best-Resources-For-Machine-Learning/Best Resources to Learn Machine Learning.md",
                 "mode": "preview",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md",
+                "file": "Blogs/Best-Resources-For-Machine-Learning/Best Resources to Learn Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md",
+                "file": "Blogs/Best-Resources-For-Machine-Learning/Best Resources to Learn Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/How to Use Git/How to use Git.md"
+                "file": "Blogs/Best-Resources-For-Machine-Learning/Best Resources to Learn Machine Learning.md"
               }
             }
           }
@@ -177,17 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b96ab8f4e5f0cef",
+  "active": "fc4f242ddde866f2",
   "lastOpenFiles": [
+    "Blogs/Tools for Machine Learning/Tools for Machine Learning.md",
+    "Blogs/Is Math Really Required for Machine Learning, or Is It Just an Drama/Is Math Really Required for Machine Learning, or Is It Just an Drama.md",
+    "Blogs/Time Management/Time Management.md",
     "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md",
     "Blogs/How to Use Git/How to use Git.md",
-    "Blogs/Is Math Really Required for Machine Learning, or Is It Just an Drama/Is Math Really Required for Machine Learning, or Is It Just an Drama.md",
     "Blogs/How to Use Git/Untitled.md",
     "Blogs/How to Use Git/Images/Final-Files-added.png",
     "Blogs/How to Use Git/Images/git-pull-orgin-main.png",
     "Blogs/How to Use Git/Images/Fill-form.png",
-    "GitHub Projects/Blog Website/ReadMe File/Blog Website.md",
-    "README.md",
-    "GitHub Projects/Blog Website/Release Version/Version 01/Version 01.md"
+    "GitHub Projects/Blog Website/ReadMe File/Blog Website.md"
   ]
 }
