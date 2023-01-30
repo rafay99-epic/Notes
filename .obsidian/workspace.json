@@ -11,8 +11,42 @@
             "id": "b68012b1a7e534a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "521fd8629a16164e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub Projects/Web Scrapper/Node-&-Git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "247de02aeb56649b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "662e5fb6607378bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/Best-Resources-For-Machine-Learning/Best Resources to Learn Machine Learning.md",
+                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/Best-Resources-For-Machine-Learning/Best Resources to Learn Machine Learning.md",
+                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/Best-Resources-For-Machine-Learning/Best Resources to Learn Machine Learning.md"
+                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md"
               }
             }
           }
@@ -142,17 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d5d9daeae0d5650",
+  "active": "662e5fb6607378bb",
   "lastOpenFiles": [
+    "GitHub Projects/Web Scrapper/Node-&-Git.md",
+    "GitHub Projects/Web Scrapper/Web Scrapper.md",
+    "Blogs/web-scraper/Web Scraper.md",
+    "GitHub Projects/Blog Website/ReadMe File/Blog Website.md",
+    "Blogs/web-scraper/Untitled 1.md",
     "Blogs/Tools for Machine Learning/Tools for Machine Learning.md",
     "Blogs/Is Math Really Required for Machine Learning, or Is It Just an Drama/Is Math Really Required for Machine Learning, or Is It Just an Drama.md",
     "Blogs/Time Management/Time Management.md",
     "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md",
-    "Blogs/How to Use Git/How to use Git.md",
-    "Blogs/How to Use Git/Untitled.md",
-    "Blogs/How to Use Git/Images/Final-Files-added.png",
-    "Blogs/How to Use Git/Images/git-pull-orgin-main.png",
-    "Blogs/How to Use Git/Images/Fill-form.png",
-    "GitHub Projects/Blog Website/ReadMe File/Blog Website.md"
+    "Blogs/How to Use Git/How to use Git.md"
   ]
 }
