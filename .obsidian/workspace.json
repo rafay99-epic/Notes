@@ -18,20 +18,33 @@
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "595fa33efd1c05ba",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a2ec98eb4c40da1c",
+            "id": "9406f92a9af0527e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
+                "file": "GitHub Projects/Portifio Website/Read Me File.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ec9d6b0d8c76d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "530742d4e766753e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub Projects/Portifio Website/Read Me File.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
+                "file": "GitHub Projects/Portifio Website/Read Me File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
+                "file": "GitHub Projects/Portifio Website/Read Me File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md"
+                "file": "GitHub Projects/Portifio Website/Read Me File.md"
               }
             }
           }
@@ -164,17 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eac0b7a6235a63a3",
+  "active": "530742d4e766753e",
   "lastOpenFiles": [
-    "Blogs/Create your Own machine Learning Model/Create-your-Own-Machine-Learning-Model.png",
     "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
+    "GitHub Projects/Portifio Website/Read Me File.md",
+    "Blogs/Create your Own machine Learning Model/Create-your-Own-Machine-Learning-Model.png",
     "GitHub Projects/Web Scrapper/Web Scrapper.md",
     "GitHub Projects/Web Scrapper/Node-&-Git.md",
     "Blogs/web-scraper/Web Scraper.md",
     "GitHub Projects/Blog Website/ReadMe File/Blog Website.md",
     "Blogs/web-scraper/Untitled 1.md",
     "Blogs/Tools for Machine Learning/Tools for Machine Learning.md",
-    "Blogs/Is Math Really Required for Machine Learning, or Is It Just an Drama/Is Math Really Required for Machine Learning, or Is It Just an Drama.md",
-    "Blogs/Time Management/Time Management.md"
+    "Blogs/Is Math Really Required for Machine Learning, or Is It Just an Drama/Is Math Really Required for Machine Learning, or Is It Just an Drama.md"
   ]
 }
