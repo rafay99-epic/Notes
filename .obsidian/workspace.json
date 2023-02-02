@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33987d2463f6e8af",
+        "id": "247de02aeb56649b",
         "type": "tabs",
         "children": [
           {
-            "id": "b68012b1a7e534a7",
+            "id": "eac0b7a6235a63a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "521fd8629a16164e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GitHub Projects/Web Scrapper/Node-&-Git.md",
+                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,16 +22,16 @@
         ]
       },
       {
-        "id": "247de02aeb56649b",
+        "id": "595fa33efd1c05ba",
         "type": "tabs",
         "children": [
           {
-            "id": "662e5fb6607378bb",
+            "id": "a2ec98eb4c40da1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md",
+                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
                 "mode": "preview",
                 "source": true
               }
@@ -115,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md",
+                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md",
+                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub Projects/Web Scrapper/Web Scrapper.md"
+                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md"
               }
             }
           }
@@ -176,17 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "662e5fb6607378bb",
+  "active": "eac0b7a6235a63a3",
   "lastOpenFiles": [
-    "GitHub Projects/Web Scrapper/Node-&-Git.md",
+    "Blogs/Create your Own machine Learning Model/Create-your-Own-Machine-Learning-Model.png",
+    "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
     "GitHub Projects/Web Scrapper/Web Scrapper.md",
+    "GitHub Projects/Web Scrapper/Node-&-Git.md",
     "Blogs/web-scraper/Web Scraper.md",
     "GitHub Projects/Blog Website/ReadMe File/Blog Website.md",
     "Blogs/web-scraper/Untitled 1.md",
     "Blogs/Tools for Machine Learning/Tools for Machine Learning.md",
     "Blogs/Is Math Really Required for Machine Learning, or Is It Just an Drama/Is Math Really Required for Machine Learning, or Is It Just an Drama.md",
-    "Blogs/Time Management/Time Management.md",
-    "Blogs/Machine Learning Required Blink Skils/Machine learning Requires Blink Skills.md",
-    "Blogs/How to Use Git/How to use Git.md"
+    "Blogs/Time Management/Time Management.md"
   ]
 }
