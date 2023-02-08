@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "247de02aeb56649b",
+        "id": "43b64e941b478079",
         "type": "tabs",
         "children": [
           {
-            "id": "eac0b7a6235a63a3",
+            "id": "9f6e4606b60eb5b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9406f92a9af0527e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GitHub Projects/Portifio Website/Read Me File.md",
+                "file": "Blogs/Machine Learning Algo/SVM/Understading of Support vector Machine(SVM) with example.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "1ec9d6b0d8c76d8d",
+        "id": "ab35505bef74391c",
         "type": "tabs",
         "children": [
           {
-            "id": "530742d4e766753e",
+            "id": "b07c91320a633b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub Projects/Portifio Website/Read Me File.md",
+                "file": "Blogs/Machine Learning Algo/SVM/Understading of Support vector Machine(SVM) with example.md",
                 "mode": "preview",
                 "source": true
               }
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub Projects/Portifio Website/Read Me File.md",
+                "file": "Blogs/Machine Learning Algo/SVM/Understading of Support vector Machine(SVM) with example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub Projects/Portifio Website/Read Me File.md",
+                "file": "Blogs/Machine Learning Algo/SVM/Understading of Support vector Machine(SVM) with example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub Projects/Portifio Website/Read Me File.md"
+                "file": "Blogs/Machine Learning Algo/SVM/Understading of Support vector Machine(SVM) with example.md"
               }
             }
           }
@@ -177,17 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "530742d4e766753e",
+  "active": "9f6e4606b60eb5b6",
   "lastOpenFiles": [
-    "Blogs/Create your Own machine Learning Model/Create your Own Machine Learning Model.md",
-    "GitHub Projects/Portifio Website/Read Me File.md",
-    "Blogs/Create your Own machine Learning Model/Create-your-Own-Machine-Learning-Model.png",
-    "GitHub Projects/Web Scrapper/Web Scrapper.md",
-    "GitHub Projects/Web Scrapper/Node-&-Git.md",
-    "Blogs/web-scraper/Web Scraper.md",
-    "GitHub Projects/Blog Website/ReadMe File/Blog Website.md",
-    "Blogs/web-scraper/Untitled 1.md",
-    "Blogs/Tools for Machine Learning/Tools for Machine Learning.md",
-    "Blogs/Is Math Really Required for Machine Learning, or Is It Just an Drama/Is Math Really Required for Machine Learning, or Is It Just an Drama.md"
+    "Blogs/Machine Learning Algo/SVM/Machine-Learning-Algo-SVM.png",
+    "Blogs/Machine Learning Algo/SVM/Understading of Support vector Machine(SVM) with example.md",
+    "Blogs/Machine Learning Algo/SVM/image-07.png",
+    "Blogs/Machine Learning Algo/SVM/image-06.png",
+    "Blogs/Machine Learning Algo/SVM/image-05.png",
+    "Blogs/Machine Learning Algo/SVM/image-04.png",
+    "Blogs/Machine Learning Algo/SVM/image-03.png",
+    "Blogs/Machine Learning Algo/SVM/image-02.png",
+    "Blogs/Machine Learning Algo/SVM/image-01.png",
+    "Blogs/Machine Learning Algo/SVP/Understading of Support vector Machine(SVM) with example.md"
   ]
 }
